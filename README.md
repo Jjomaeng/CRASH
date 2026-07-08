@@ -1,6 +1,5 @@
 
 # CRASH: Context-aware Recognition of Agents for Simulation of High-risk Driving [ICRA 2026]
-[[Paper]](https://rasevents.org/uploads/documents/pdfviewer/74/27/220133-4947.pdf)
 
 ## 🔔 News
 - [2026-02-1] We are happy to announce that **CRASH** was accepted at **ICRA 2026**.
